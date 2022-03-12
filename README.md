@@ -63,7 +63,7 @@ Si cumple con el tiempo de ejercicio, se premia; y se detecta que el gato deja d
 
 <br>
 
-##🏋️ **Pasos para la ejercitación**
+## 🏋️ **Pasos para la ejercitación**
 
 ---
 
@@ -75,7 +75,7 @@ Si cumple con el tiempo de ejercicio, se premia; y se detecta que el gato deja d
 
 <br>
 
-##🔍 **Observaciones / recomendaciones**
+## 🔍 **Observaciones / recomendaciones**
 
 ---
 
