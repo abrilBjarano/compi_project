@@ -14,15 +14,19 @@ Clicker automático aunado a un comedor y a un laser. <br><br>
 
 ## **Qué hace**
 ---
+
+<div><img align="right" width="400" heigh="400" src="images\catFit2.png"/>&nbsp 
+
 **Maneja y lleva un control** de la alimentación como la actividad física del gato. **Se asegura** de que no se alimente más y se hidrate lo suficiente; y **hace** que la mascota se ejercite y juegue, **gracias al estímulo de recompensa** por el tiempo recomendado.      
 Así cumple con su función de inculcar y cultivar hábitos en la mascota.<br><br>
 
 **El "clicker" se activa todos los días a las mismas horas** y lo invita a comer y **si se excede, no lo deja comer más**.<br><br>
 
-<div class="pull-left"><img align="left" width="400" heigh="400" src="images\catFit1.png"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-
 ## **CatFit consta de tres partes principales:**
 ---
+
+<div><img height="400" align="right" width="400" heigh="400" src="images\catFit1.png"/>&nbsp 
+
 * **Clicker.**  
 Emite un sonido con un speaker y cuando responde al estímulo, proporciona un premio. Esto para recordarle tomar agua, comer y realizar su actividad física. Se activa también si el gato no ha cumplido con su dosis.
 Entrenador "ruido-recompensa". 
@@ -48,6 +52,9 @@ Si cumple con el tiempo de ejercicio, se premia; y se detecta que el gato deja d
 
 ## **Cantidades de alimento**
 ---
+
+<div><img align="right" width="400" heigh="400" src="images\catFit3.jpg"/>&nbsp
+
 | Peso  | Comida |
 | ----- | ------ |
 | 2kg   | 30-40g |
