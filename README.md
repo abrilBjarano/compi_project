@@ -19,6 +19,8 @@ Así cumple con su función de inculcar y cultivar hábitos en la mascota.<br><b
 
 **El "clicker" se activa todos los días a las mismas horas** y lo invita a comer y **si se excede, no lo deja comer más**.<br><br>
 
+<div class="pull-left"><img align="left" width="400" heigh="400" src="images\catFit1.png"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+
 ## **CatFit consta de tres partes principales:**
 ---
 * **Clicker.**  
@@ -37,7 +39,12 @@ Tienen una célula de carga con función de bascula para calcular los alimentos 
 * **Puntero.**  
 Promueve el ejercicio con el láser y se mueve de forma automática junto con el sensor de movimiento.  
 Cuenta con dos servomotores que hacen que ambos se muevan.  
-Si cumple con el tiempo de ejercicio, se premia; y se detecta que el gato deja de jugar, pero realizó por lo menos la mitad de tiempo, se le recompensa con catnip pero en menor cantidad.<br><br>
+Si cumple con el tiempo de ejercicio, se premia; y se detecta que el gato deja de jugar, pero realizó por lo menos la mitad de tiempo, se le recompensa con catnip pero en menor cantidad.<br><br></div>
+
+<!-- <img align="left" width="400" heigh="400" src="images\catFit1.png"/> -->
+
+
+<br><br>
 
 ## **Cantidades de alimento**
 ---
