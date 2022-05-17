@@ -1,0 +1,4 @@
+---- SENSOR PIR ----
+
+* para verificar que el gato estaba jugnado, activar el pir cada 1 minuto por 3 y si el pir detecta algo en esos 3 ciclos, agregar una variable que sume uno cada que detecto.
+* activar la deteccion del pir 5 minutos y si en ese tiempo se sumo una cantidad de 10 en la variable, soltar el premio y si no, volver a sonar

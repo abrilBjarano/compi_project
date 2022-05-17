@@ -1,0 +1,15 @@
+---- SERVOS ----
+
+* la primera vez no funcionaba pero se solucionó acomodando bien los cables.
+
+* luego el servo s3003 empezaba a fallar de repente y no funcionaba correctamente ni en la proto ni en el arduino directo a comparación del sg90
+
+
+---- SENSOR PIR ----
+
+* no reacciona inmediatamente como en los videos.
+
+
+---- BUZZER ----
+
+* no hallabamos como poner un buen tono.
